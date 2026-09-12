@@ -89,38 +89,24 @@
       },
       "korean_withholding_tax_rate": "0% (Exempt under Korean Income Tax Act §12(3)(d))"
     },
-    "primary_policy_db_insurance": {
+    "primary_active_policy_seojeong_univ": {
+      "policy_name": "Seojeong University Foreign Student Master Group Accident Policy (서정대학교 외국인 유학생 단체상해보험)",
+      "managing_office": "Seojeong University International Affairs Office (서정대학교 국제교류처)",
+      "contact_phone": "031-860-5177 / 031-860-5272~3 / 031-860-5000",
+      "contact_email": "interchange@seojeong.ac.kr, global@seojeong.ac.kr",
+      "mandatory_mandate": "Ministry of Education (MOE) IEQAS Accreditation & MOJ Immigration Mandatory Foreign Student Policy",
+      "death_benefit_claim": "KRW 30,000,000 ~ KRW 50,000,000 (Accidental Death Benefit)",
+      "repatriation_expense_claim": "KRW 5,000,000 ~ KRW 20,000,000 (Exhibit F4 itemized receipts)",
+      "total_recovery_target": "KRW 35,000,000 ~ KRW 70,000,000",
+      "legal_defense_preemption": "Supreme Court En Banc Decision 98Da48963 & Commercial Code §732-2 (Unlicensed driving exemption strictly VOID)"
+    },
+    "secondary_auto_policy_db_insurance": {
       "insurer_name": "DB Insurance Co., Ltd. (DB손해보험주식회사)",
-      "ceo": "Jeong Jong-pyo (대표이사 정종표)",
-      "crn": "110111-0007882",
-      "headquarters": "DB Financial Center, 432 Teheran-ro, Gangnam-gu, Seoul 06194",
       "policy_no": "2-2026-0531750-000",
-      "product_name": "프로미카개인용(베이직형)자동차보험 (Promy Car Basic Auto Policy)",
       "subject_vehicle_plate": "28모1390",
       "vehicle_model": "2012 All New Morning (기아 모닝 경승용)",
-      "vin_chassis": "KNABE511BCT380523",
-      "policy_term": "2026-01-21 24:00 KST ~ 2026-04-21 24:00 KST (Active 52 days prior to crash)",
-      "premium_status": "KRW 317,600 (Fully Paid / 일시납 완납)",
-      "managing_branch": "Gangneung Business Dept / Gangneung Sokcho Branch (강릉사업단 강릉속초지점)",
-      "managing_agent": "이덕만 (Lee Deok-man, Direct Mobile: 010-5379-6099)",
-      "call_center": "1588-0100 / Direct: 1600-0100 / Foreigner Desk: 1566-0161",
-      "fax_hq": "02-3011-3339",
-      "claims_email": "claim_auto@idbins.com, claim@idbins.com",
-      "full_death_benefit": 100000000,
-      "provisional_advance_demand": 50000000,
-      "statutory_window_days": 10,
-      "statutory_default_interest_pre_complaint": "6.0% p.a. (Commercial Code §54 / KRW 16,438.36 daily on 100M)",
-      "statutory_default_interest_post_complaint": "12.0% p.a. (Litigation Expediting Act §3(1) / KRW 32,876.71 daily on 100M)"
-    },
-    "secondary_policy_seojeong_univ": {
-      "insured_entity": "Seojeong University D-2 International Student Master Group Accident Policy",
-      "managing_office": "Seojeong University International Affairs Office (서정대학교 국제교류처)",
-      "contact_phone": "031-860-5000 / 031-860-5272",
-      "contact_email": "intl@seojeong.ac.kr",
-      "death_benefit_claim": "KRW 30,000,000 ~ KRW 50,000,000",
-      "repatriation_expense_claim": "KRW 5,000,000 ~ KRW 20,000,000 (Exhibit F4 itemized receipts)",
-      "total_group_claim": "KRW 35,000,000 ~ KRW 70,000,000",
-      "dual_recovery_status": "Non-offsetting under Commercial Code §739 (Fixed-Sum Personal Insurance)"
+      "coverage_status": "Third-Party Liability (대인 I, 대물 2000만원) [ACTIVE], Self-Physical Accident (자기신체사고) [미가입 / Not Enrolled]",
+      "strategic_role": "Authentic Certificate serves as legal vehicle compliance evidence; first-party auto death payout unavailable due to 미가입 status."
     }
   }
 }

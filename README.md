@@ -36,15 +36,14 @@ Credentials          : NID: 6003330534 | Passport: B00936349 | Phone: +880-19416
 Designated Bank A/C  : Mutual Trust Bank PLC (Dhanmondi Branch, Dhaka, Bangladesh)
                        A/C: 1311004072276 | SWIFT: MTBLBDDH | Routing: 145261188
 
-Primary Target Policy: DB Insurance Co., Ltd. (DB손해보험주식회사 / CEO Jeong Jong-pyo)
-Policy Number / Plate: Policy No: 2-2026-0531750-000 | Subject Vehicle Plate: 28모1390 (Kia Morning)
-Policy Term / Status : January 21, 2026 ~ April 21, 2026 (Active & fully paid 52 days prior to crash)
-Managing Branch/Agent: DB Insurance Gangneung Sokcho Branch, Agent Lee Deok-man (이덕만: 010-5379-6099)
-Primary Claims       : 1. KRW 100,000,000 (Self-Physical Accident Death Benefit / 자기신체사고 사망보험금)
-                       2. KRW 50,000,000 Mandatory Provisional Advance (상법 제732조의2 가지급금 5,000만원)
+Primary Target Policy: Seojeong University Foreign Student Master Group Accident Insurance
+Coverage & Payout    : KRW 35,000,000 ~ KRW 70,000,000 (Death Benefit KRW 30M~50M + Repatriation KRW 5M~20M)
+Mandatory Legal Basis: Ministry of Education (MOE) IEQAS Accreditation & MOJ Immigration Mandatory Student Coverage
+Exemption Preemption : Supreme Court En Banc 98Da48963 & Commercial Code §732-2 (Unlicensed driving exemption VOID)
 
-Secondary Policy     : Seojeong University Foreign Student Master Group Accident Insurance
-Secondary Claims     : KRW 35,000,000 ~ KRW 70,000,000 (Death Benefit KRW 30M~50M + Repatriation KRW 5M~20M)
+Secondary Auto Policy: DB Insurance Co., Ltd. (Policy No: 2-2026-0531750-000, Vehicle: 28모1390)
+Auto Policy Status   : Active Liability (대인 I, 대물 2천만원), Self-Physical Accident [미가입 / Not Enrolled]
+Strategic Focus      : DB Auto certificate serves as legal vehicle compliance proof; 100% payout vector is Seojeong Univ.
 ====================================================================================================
 ```
 
@@ -61,7 +60,18 @@ d:/promotion/
 ├── CASE_MASTER_KNOWLEDGE_DOSSIER.md                      <-- 55KB Master Single Source of Truth
 ├── PROJECT.md                                            <-- Technical Architecture & Milestone Tracker
 │
-├── 00_DB_50M_KRW_FIRST_PAYOUT_BANGLADESH_DIRECT_FILING_PACK/  <-- Bangladesh Direct Filing Core Package
+├── 00_SEOJEONG_UNIVERSITY_GROUP_INSURANCE_RECOVERY_PACK/ <-- ⭐ PRIMARY ACTIVE PAYOUT RECOVERY PACKAGE (KRW 35M~70M)
+│   ├── 00_SEOJEONG_UNIVERSITY_RECOVERY_EXECUTIVE_MANUAL.md  (Executive Rationale, Precedents & 6-Phase Playbook)
+│   ├── 01_Seojeong_University_Group_Insurance_Claim_and_Legal_Brief.md (Full Claim Package under En Banc 98Da48963)
+│   ├── 02_Bilingual_Special_Power_of_Attorney_Master.md (Fiduciary POA for Hasibul Munim)
+│   ├── 03_Seojeong_OIA_Telephone_Call_Script_and_ARS_Protocol.md (Bilingual Call Script for 031-860-5177)
+│   ├── 04_Email_Transmittal_and_ePeople_Administrative_Petition_Package.md (Email to OIA & e-People MOE Petition)
+│   ├── 06_Master_Evidence_Inventory_and_Exhibits_Catalog.md (140 Evidence Exhibits Cross-Reference)
+│   ├── DB_Auto_Insurance_Certificate_28M1390.pdf, My (munim) NID.jpg, my munim passport.jpg, bank details.pdf
+│   ├── docx/                                                 (Compiled Editable Word Deliverables)
+│   └── pdf/                                                  (Print-Ready Master PDFs)
+│
+├── 00_DB_50M_KRW_FIRST_PAYOUT_BANGLADESH_DIRECT_FILING_PACK/  <-- DB Auto Historical Reference Filing Pack
 │   ├── 00_MASTER_STRATEGIC_CONTEXT_AND_AI_REVIEW_DOSSIER.md  (Strategic AI Brief & Fast Context)
 │   ├── 00_STEP_BY_STEP_EXECUTION_INSTRUCTION_MANUAL.md       (Operational Step-by-Step Manual)
 │   ├── 01_DB_Insurance_50M_Provisional_Payment_Claim_Notice.md (and .docx / .pdf)
