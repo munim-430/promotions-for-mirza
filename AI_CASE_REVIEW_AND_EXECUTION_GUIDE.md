@@ -120,18 +120,18 @@ When analyzing this case or answering queries, AI models should construct their 
 
 ### Chain 1: Accidental Death Coverage & Inherent Property Nature
 1. **Triggering Event:** The single-vehicle crash on March 14, 2026 is an accidental sudden violent external collision resulting directly in the death of MAHADI MONOAR HOSSAIN.
-2. **Policy Classification:** Self-Physical Accident (*자기신체사고*) coverage in automobile insurance is a first-party personal accident / life insurance contract (*상해보험·인보험*).
+2. **Policy Classification:** Seojeong University's Foreign Student Group Accident Policy is a personal accident / life insurance contract (*상해보험·인보험*).
 3. **Inherent Property Doctrine (Supreme Court 2003Da29463 & 2000Da31502):** Accidental death insurance proceeds do not enter the probate estate of the deceased; they vest originally and immediately in the statutory heirs as their separate inherent property (*상속인의 고유재산*). General estate creditors have zero claim against these funds.
 
 ### Chain 2: Strict Nullity of Unlicensed Driving Exclusion Clauses
 1. **Commercial Code Article 732-2 (상법 제732조의2):** In death/accident insurance, the insurer cannot be exempted from liability for an event caused by the gross negligence (*중대한 과실*) of the insured or beneficiary.
 2. **Commercial Code Article 663 (상법 제663조 - 불이익변경금지원칙):** Contractual clauses disadvantageous to the insured compared to statutory provisions are strictly void.
 3. **Supreme Court En Banc Decision 98Da48963 (대법원 98다48963 전원합의체 판결):** The Supreme Court En Banc authoritatively ruled that policy terms excluding coverage for accidental death solely because the insured was driving without a driver's license violate Commercial Code Articles 732-2 and 663, and are **ABSOLUTELY VOID AB INITIO**.
-4. **Distinction Between Intent and Negligence:** Driving without a license is categorized under Korean law as gross negligence, distinct from intentional suicide (*고의에 의한 사고*). Because there was zero suicide intent (confirmed by Sokcho Police Case 2026-00020), DB Insurance is 100% liable.
+4. **Distinction Between Intent and Negligence:** Driving without a license is categorized under Korean law as gross negligence, distinct from intentional suicide (*고의에 의한 사고*). Because there was zero suicide intent (confirmed by Sokcho Police Case 2026-00020), the insurer is 100% liable.
 
-### Chain 3: Mandatory Statutory 50% Provisional Advance
-1. **Commercial Code §732-2 & Standard Auto Policy Art. 34(3):** Upon formal claim submission with basic proof of accidental death (Hospital Death Certificate + Police Body Release Order), the insurer **MUST** disburse at least 50% of the estimated claim (**KRW 50,000,000**) within 10 business days.
-2. **Non-Deferrability:** Ongoing investigations, liability appraisals, or internal approvals cannot delay or extinguish this statutory 50% provisional advance obligation.
+### Chain 3: Mandatory University Group Coverage Mandate
+1. **Ministry of Education (MOE) IEQAS Mandate:** All higher education institutions hosting D-2 international students are legally required to maintain 100% group accident insurance coverage.
+2. **Coverage Scope:** Covers Accidental Death Benefits (KRW 30,000,000 ~ KRW 50,000,000) and actual Repatriation/Funeral Expenses (KRW 5,000,000 ~ KRW 20,000,000).
 
 ### Chain 4: Cross-Border Succession Law & Share Apportionment
 1. **Korean Private International Law Art. 49(1) (국제사법 제49조):** Inheritance is governed by the national law of the deceased at death (Bangladeshi Law).
@@ -141,9 +141,9 @@ When analyzing this case or answering queries, AI models should construct their 
    - **Father (BELAL HOSSAIN):** Residuary Heir (*Asabah*) receives the remaining **2/3** (66.667%).
    - All siblings and extended relatives are completely excluded (*Mahjub*).
 
-### Chain 5: Non-Offsetting Dual Recovery from University Group Policy
-1. **Commercial Code Article 739 (상법 제739조 - 손해보험 규정의 준용 배제):** Accidental death insurance is fixed-sum personal insurance (*정액보험*), NOT indemnity insurance (*손해보험*). The principle of prohibition of unjust enrichment / loss-indemnity offsetting does not apply.
-2. **Cumulative Recovery:** The heirs are entitled to recover the full **KRW 100,000,000** from DB Insurance AND **KRW 35,000,000 ~ KRW 70,000,000** from the Seojeong University Group Policy with zero offsetting or deduction.
+### Chain 5: DB Auto Policy Role as Evidence of Vehicle Compliance
+1. **Vehicle Compliance Evidence:** DB Insurance Policy `2-2026-0531750-000` proves that vehicle `28모1390` was legally registered and had active third-party liability insurance.
+2. **First-Party Self-Injury Exclusion:** Because `자기신체사고` was marked `미가입` (not enrolled) on the auto policy, the sole active payout vector is the **Seojeong University Group Accident Policy**.
 
 ### Chain 6: Fiduciary Representation & Zero Korean Withholding Tax
 1. **Civil Act Article 118 (민법 제118조):** Special Power of Attorney Clause 6 grants Hasibul Munim full authority to receive wire transfers and execute valid receipt and discharge.
@@ -153,35 +153,16 @@ When analyzing this case or answering queries, AI models should construct their 
 
 ## 3. READY-TO-USE PROMPT TEMPLATES FOR AI ADVERSARIAL AUDITING
 
-### 🤖 Prompt A: Adversarial Insurer Legal Counsel (Red Team Simulation)
+### 🤖 Prompt A: University Group Insurance Claims Review Simulation
 ```markdown
-You are Senior In-House Claims Litigation Counsel for DB Insurance Co., Ltd. (DB손해보험).
-You have received a formal claim notice demanding KRW 50,000,000 in provisional payments within 10 days 
-and KRW 100,000,000 in full Self-Physical Accident death benefits for deceased foreign student MAHADI MONOAR HOSSAIN 
-(Policy No: 2-2026-0531750-000, Vehicle: 28모1390).
+You are Claims Legal Adjuster for Seojeong University's Foreign Student Group Accident Insurance Consortium.
+You have received a formal claim for KRW 35,000,000 ~ KRW 70,000,000 for deceased student MAHADI MONOAR HOSSAIN (Student ID: 202581042).
 
-The deceased died in a single-vehicle collision without a driver's license. The claimants are the parents in Bangladesh 
-represented by an Attorney-in-Fact in Seoul.
-
-Evaluate the claim strictly under Korean Commercial Code, Supreme Court precedent 98Da48963, and standard policy terms:
-1. Can DB Insurance lawfully invoke the unlicensed driving exclusion clause to deny first-party accidental death benefits?
-2. Can DB Insurance delay the 50% provisional advance (KRW 50M) beyond 10 days by citing need for further investigation?
-3. What is DB Insurance's legal risk if it refuses payment and the heirs file an FSS dispute mediation petition and KLAC civil complaint?
-```
-
-### 🤖 Prompt B: Statutory Financial & Delay Interest Verification Engine
-```markdown
-You are a Financial Actuary and Korean Commercial Court Interest Calculation Specialist.
-Verify the following statutory interest acceleration schedule against Korean Commercial Code §54 (6.0% p.a.) 
-and Special Act on Litigation Expediting §3(1) (12.0% p.a.):
-
-- Principal Base: KRW 50,000,000 (Provisional Advance) and KRW 100,000,000 (Full Claim)
-- Daily Rate at 6.0% p.a. on KRW 100M: KRW 16,438.36 / on KRW 50M: KRW 8,219.18
-- Daily Rate at 12.0% p.a. on KRW 100M: KRW 32,876.71 / on KRW 50M: KRW 16,438.36
-- Cumulative 30-Day Default on KRW 100M: KRW 493,151
-- Cumulative 365-Day Default on KRW 100M: KRW 6,000,000 (6%) or KRW 12,000,000 (12%)
-
-Confirm whether these calculations are exact and ready for inclusion in court complaints.
+The student died in a single-vehicle accident without a Korean driver's license.
+Evaluate the claim under Korean Commercial Code §732-2, §663, and Supreme Court En Banc Decision 98Da48963:
+1. Can the insurer deny accidental death benefits citing unlicensed driving or lack of auto first-party coverage?
+2. What are the mandatory time limits for claim settlement under Insurance Business Regulations?
+3. How should repatriation receipts (Exhibit F4) be processed under the group policy rider?
 ```
 
 ---
@@ -190,9 +171,10 @@ Confirm whether these calculations are exact and ready for inclusion in court co
 
 | Task / Requirement | Recommended Files to Load | Key Exhibits / Artifacts |
 |---|---|---|
-| **Immediate 50M Provisional Demand** | `00_DB_50M_KRW_FIRST_PAYOUT_BANGLADESH_DIRECT_FILING_PACK/` | `01_DB_Insurance_50M_Provisional_Payment_Claim_Notice.md`, `02_Bilingual_Special_Power_of_Attorney_Master.md` |
-| **FSS Regulatory Dispute Filing** | `legal_claim_package/02_fss_dispute_mediation_petition.md` | Exhibit A1 (Police), B1/B2 (Hospital), F3 (Bank) |
-| **Seojeong Univ Group Claim** | `legal_claim_package/03_seojeong_university_group_insurance_claim.md` | Exhibit F4 (Repatriation receipts), D1 (ARC), D3 (Passport) |
+| **⭐ Primary Active Recovery Pack** | `00_SEOJEONG_UNIVERSITY_GROUP_INSURANCE_RECOVERY_PACK/` | `00_SEOJEONG_UNIVERSITY_RECOVERY_EXECUTIVE_MANUAL.pdf`, `01_Seojeong_University_Group_Insurance_Claim_and_Legal_Brief.pdf` |
+| **University Group Claim Brief** | `legal_claim_package/03_seojeong_university_group_insurance_claim.md` | Exhibit F4 (Repatriation receipts), D1 (ARC), D3 (Passport) |
+| **Bilingual Special POA** | `legal_claim_package/04_bilingual_special_power_of_attorney.md` | Exhibit E3 (Hasibul Munim NID/Passport), F3 (MTB Bank Statement) |
+| **OIA Phone & Email Blitz** | `legal_claim_package/15_seojeong_university_telephone_call_script.md` | `16_seojeong_university_email_and_epeople_petition_package.md` |
 | **Heirship & Legalization Guide** | `legal_claim_package/04_cross_border_heirship_and_legalization_guide.md` | Warishan Sanad, MOFA Dhaka attestation protocols |
 | **Evidence Authentication Matrix** | `02_EVIDENCE_AND_IDENTITY_EXHIBITS/` | Exhibits A1, B1, B2, C1, C2, C3, D1, D3, E3, F3, F4 |
 | **Lawyer / Consular Transmittals** | `03_KOREAN_LAWYERS_AND_INSURERS_FILING_PACK/` | 19 compiled PDF/Word deliverables for instant dispatch |

@@ -71,19 +71,6 @@ d:/promotion/
 │   ├── docx/                                                 (Compiled Editable Word Deliverables)
 │   └── pdf/                                                  (Print-Ready Master PDFs)
 │
-├── 00_DB_50M_KRW_FIRST_PAYOUT_BANGLADESH_DIRECT_FILING_PACK/  <-- DB Auto Historical Reference Filing Pack
-│   ├── 00_MASTER_STRATEGIC_CONTEXT_AND_AI_REVIEW_DOSSIER.md  (Strategic AI Brief & Fast Context)
-│   ├── 00_STEP_BY_STEP_EXECUTION_INSTRUCTION_MANUAL.md       (Operational Step-by-Step Manual)
-│   ├── 01_DB_Insurance_50M_Provisional_Payment_Claim_Notice.md (and .docx / .pdf)
-│   ├── 02_Bilingual_Special_Power_of_Attorney_Master.md (and .docx / .pdf)
-│   ├── 03_Direct_International_Claim_and_10Day_Statutory_Demand.md (and .docx / .pdf)
-│   ├── 04_Email_and_Fax_Transmittal_Package_for_DB_Insurance.md (and .docx / .pdf)
-│   ├── 05_Master_Evidence_Inventory_and_Exhibits_Catalog.md (and .docx / .pdf)
-│   ├── 06_DB_Insurance_Telephone_Call_Script_and_Adjuster_Protocol.md (and .docx / .pdf)
-│   ├── My (munim) NID.jpg, my munim passport.jpg, my munim bank details.pdf, 가입증명서-2.pdf
-│   ├── docx/                                                 (Compiled Word Format)
-│   └── pdf/                                                  (Print-Ready PDF Format)
-│
 ├── 01_SEND_TO_BANGLADESH_PRINT_PACK/                     <-- Dhaka/Cumilla Print & Attestation Packet
 │   ├── 01_Bilingual_Special_Power_of_Attorney_TO_PRINT_AND_SIGN.pdf
 │   ├── 02_Cross_Border_Heirship_and_Legalization_Guide.pdf
