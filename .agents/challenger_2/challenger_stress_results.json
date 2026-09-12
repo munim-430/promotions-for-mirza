@@ -1,0 +1,1012 @@
+{
+  "md_integrity": {
+    "total_files": 15,
+    "all_exist_and_gt_10k": true,
+    "details": [
+      {
+        "file": "00_master_dossier_index_and_executive_summary.md",
+        "exists": true,
+        "size_bytes": 64916,
+        "size_kb": 63.39,
+        "pass": true
+      },
+      {
+        "file": "01_samsung_fire_claim_notice_and_legal_brief.md",
+        "exists": true,
+        "size_bytes": 49481,
+        "size_kb": 48.32,
+        "pass": true
+      },
+      {
+        "file": "02_fss_dispute_mediation_petition.md",
+        "exists": true,
+        "size_bytes": 40935,
+        "size_kb": 39.98,
+        "pass": true
+      },
+      {
+        "file": "03_seojeong_university_group_insurance_claim.md",
+        "exists": true,
+        "size_bytes": 64650,
+        "size_kb": 63.13,
+        "pass": true
+      },
+      {
+        "file": "04_bilingual_special_power_of_attorney.md",
+        "exists": true,
+        "size_bytes": 41556,
+        "size_kb": 40.58,
+        "pass": true
+      },
+      {
+        "file": "04_cross_border_heirship_and_legalization_guide.md",
+        "exists": true,
+        "size_bytes": 40204,
+        "size_kb": 39.26,
+        "pass": true
+      },
+      {
+        "file": "05_evidence_inventory_and_exhibits_catalog.md",
+        "exists": true,
+        "size_bytes": 55175,
+        "size_kb": 53.88,
+        "pass": true
+      },
+      {
+        "file": "06_direct_filing_dispatch_package.md",
+        "exists": true,
+        "size_bytes": 69880,
+        "size_kb": 68.24,
+        "pass": true
+      },
+      {
+        "file": "07_legal_aid_and_consular_escalation_roster.md",
+        "exists": true,
+        "size_bytes": 84189,
+        "size_kb": 82.22,
+        "pass": true
+      },
+      {
+        "file": "08_attorney_in_fact_execution_checklist.md",
+        "exists": true,
+        "size_bytes": 71136,
+        "size_kb": 69.47,
+        "pass": true
+      },
+      {
+        "file": "09_direct_international_claim_and_10day_statutory_notice.md",
+        "exists": true,
+        "size_bytes": 74337,
+        "size_kb": 72.59,
+        "pass": true
+      },
+      {
+        "file": "10_parallel_pro_bono_and_consular_intake_packets.md",
+        "exists": true,
+        "size_bytes": 73713,
+        "size_kb": 71.99,
+        "pass": true
+      },
+      {
+        "file": "11_dhaka_to_seoul_dhl_dispatch_and_10day_tracking_guide.md",
+        "exists": true,
+        "size_bytes": 73757,
+        "size_kb": 72.03,
+        "pass": true
+      },
+      {
+        "file": "12_lawyer_and_insurer_filing_email_transmittals.md",
+        "exists": true,
+        "size_bytes": 23562,
+        "size_kb": 23.01,
+        "pass": true
+      },
+      {
+        "file": "13_db_insurance_policy_verification_and_issuance_request.md",
+        "exists": true,
+        "size_bytes": 38166,
+        "size_kb": 37.27,
+        "pass": true
+      }
+    ]
+  },
+  "docx_integrity": {
+    "total_files": 16,
+    "expected_16": true,
+    "all_valid_xml": true,
+    "details": [
+      {
+        "file": "00_master_dossier_index_and_executive_summary.docx",
+        "size_bytes": 58302,
+        "paragraphs": 138,
+        "tables": 10,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "01_samsung_fire_claim_notice_and_legal_brief.docx",
+        "size_bytes": 56457,
+        "paragraphs": 240,
+        "tables": 9,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "02_fss_dispute_mediation_petition.docx",
+        "size_bytes": 52414,
+        "paragraphs": 235,
+        "tables": 4,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "03_seojeong_university_group_insurance_claim.docx",
+        "size_bytes": 59500,
+        "paragraphs": 248,
+        "tables": 18,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "04_bilingual_special_power_of_attorney.docx",
+        "size_bytes": 53688,
+        "paragraphs": 226,
+        "tables": 19,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "04_cross_border_heirship_and_legalization_guide.docx",
+        "size_bytes": 50686,
+        "paragraphs": 152,
+        "tables": 10,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "05_evidence_inventory_and_exhibits_catalog.docx",
+        "size_bytes": 53448,
+        "paragraphs": 87,
+        "tables": 13,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "06_direct_filing_dispatch_package.docx",
+        "size_bytes": 65974,
+        "paragraphs": 294,
+        "tables": 22,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "07_legal_aid_and_consular_escalation_roster.docx",
+        "size_bytes": 65224,
+        "paragraphs": 168,
+        "tables": 17,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "08_attorney_in_fact_execution_checklist.docx",
+        "size_bytes": 63564,
+        "paragraphs": 328,
+        "tables": 39,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "09_direct_international_claim_and_10day_statutory_notice.docx",
+        "size_bytes": 66999,
+        "paragraphs": 329,
+        "tables": 27,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "10_parallel_pro_bono_and_consular_intake_packets.docx",
+        "size_bytes": 64604,
+        "paragraphs": 157,
+        "tables": 24,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "11_dhaka_to_seoul_dhl_dispatch_and_10day_tracking_guide.docx",
+        "size_bytes": 63383,
+        "paragraphs": 177,
+        "tables": 20,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "12_lawyer_and_insurer_filing_email_transmittals.docx",
+        "size_bytes": 47535,
+        "paragraphs": 178,
+        "tables": 7,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "13_db_insurance_policy_verification_and_issuance_request.docx",
+        "size_bytes": 55211,
+        "paragraphs": 115,
+        "tables": 7,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      },
+      {
+        "file": "Lawyer_and_Insurer_Filing_Emails.docx",
+        "size_bytes": 47535,
+        "paragraphs": 178,
+        "tables": 7,
+        "xml_valid": true,
+        "error": "",
+        "pass": true
+      }
+    ]
+  },
+  "pdf_integrity": {
+    "total_files": 16,
+    "expected_16": true,
+    "total_pages": 246,
+    "is_gt_200": true,
+    "empty_pages_count": 0,
+    "empty_pages": [],
+    "details": [
+      {
+        "file": "00_master_dossier_index_and_executive_summary.pdf",
+        "size_bytes": 344027,
+        "page_count_fitz": 15,
+        "page_count_pypdf": 15,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "01_samsung_fire_claim_notice_and_legal_brief.pdf",
+        "size_bytes": 385868,
+        "page_count_fitz": 15,
+        "page_count_pypdf": 15,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "02_fss_dispute_mediation_petition.pdf",
+        "size_bytes": 389158,
+        "page_count_fitz": 12,
+        "page_count_pypdf": 12,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "03_seojeong_university_group_insurance_claim.pdf",
+        "size_bytes": 444912,
+        "page_count_fitz": 16,
+        "page_count_pypdf": 16,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "04_bilingual_special_power_of_attorney.pdf",
+        "size_bytes": 351325,
+        "page_count_fitz": 14,
+        "page_count_pypdf": 14,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "04_cross_border_heirship_and_legalization_guide.pdf",
+        "size_bytes": 273825,
+        "page_count_fitz": 11,
+        "page_count_pypdf": 11,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "05_evidence_inventory_and_exhibits_catalog.pdf",
+        "size_bytes": 284147,
+        "page_count_fitz": 12,
+        "page_count_pypdf": 12,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "06_direct_filing_dispatch_package.pdf",
+        "size_bytes": 523489,
+        "page_count_fitz": 21,
+        "page_count_pypdf": 21,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "07_legal_aid_and_consular_escalation_roster.pdf",
+        "size_bytes": 413389,
+        "page_count_fitz": 18,
+        "page_count_pypdf": 18,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "08_attorney_in_fact_execution_checklist.pdf",
+        "size_bytes": 472135,
+        "page_count_fitz": 20,
+        "page_count_pypdf": 20,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "09_direct_international_claim_and_10day_statutory_notice.pdf",
+        "size_bytes": 523750,
+        "page_count_fitz": 22,
+        "page_count_pypdf": 22,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "10_parallel_pro_bono_and_consular_intake_packets.pdf",
+        "size_bytes": 409496,
+        "page_count_fitz": 20,
+        "page_count_pypdf": 20,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "11_dhaka_to_seoul_dhl_dispatch_and_10day_tracking_guide.pdf",
+        "size_bytes": 407164,
+        "page_count_fitz": 19,
+        "page_count_pypdf": 19,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "12_lawyer_and_insurer_filing_email_transmittals.pdf",
+        "size_bytes": 406701,
+        "page_count_fitz": 9,
+        "page_count_pypdf": 9,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "13_db_insurance_policy_verification_and_issuance_request.pdf",
+        "size_bytes": 352415,
+        "page_count_fitz": 13,
+        "page_count_pypdf": 13,
+        "empty_pages": [],
+        "pass": true
+      },
+      {
+        "file": "Lawyer_and_Insurer_Filing_Emails.pdf",
+        "size_bytes": 406701,
+        "page_count_fitz": 9,
+        "page_count_pypdf": 9,
+        "empty_pages": [],
+        "pass": true
+      }
+    ]
+  },
+  "trio_parity": {
+    "tested_stems": 15,
+    "total_parity_failures": 0,
+    "failures": [],
+    "matrix": [
+      {
+        "stem": "00_master_dossier_index_and_executive_summary",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "01_samsung_fire_claim_notice_and_legal_brief",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "02_fss_dispute_mediation_petition",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "03_seojeong_university_group_insurance_claim",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": false,
+            "in_docx": false,
+            "in_pdf": true,
+            "parity": false
+          },
+          "renewal_date": {
+            "in_md": false,
+            "in_docx": false,
+            "in_pdf": false,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "04_bilingual_special_power_of_attorney",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": false,
+            "in_docx": false,
+            "in_pdf": true,
+            "parity": false
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "04_cross_border_heirship_and_legalization_guide",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "05_evidence_inventory_and_exhibits_catalog",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "06_direct_filing_dispatch_package",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "07_legal_aid_and_consular_escalation_roster",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "08_attorney_in_fact_execution_checklist",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "09_direct_international_claim_and_10day_statutory_notice",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "10_parallel_pro_bono_and_consular_intake_packets",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "11_dhaka_to_seoul_dhl_dispatch_and_10day_tracking_guide",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "12_lawyer_and_insurer_filing_email_transmittals",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": false,
+            "in_docx": false,
+            "in_pdf": false,
+            "parity": true
+          }
+        }
+      },
+      {
+        "stem": "13_db_insurance_policy_verification_and_issuance_request",
+        "entities": {
+          "deceased_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "vehicle_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "insurer_name": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "policy_number": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          },
+          "renewal_date": {
+            "in_md": true,
+            "in_docx": true,
+            "in_pdf": true,
+            "parity": true
+          }
+        }
+      }
+    ]
+  },
+  "exhibits": {
+    "catalog_count": 37,
+    "total_citations": 140,
+    "dangling_count": 0,
+    "dangling_details": {}
+  },
+  "stale_samsung": {
+    "files_scanned": 17,
+    "stale_mentions_count": 0,
+    "vehicle_make_occurrences": 24,
+    "stale_hits": []
+  },
+  "email_payload": {
+    "total_all_pdfs_bytes": 6388502,
+    "total_all_pdfs_mb": 6.09,
+    "total_b64_mb": 8.12,
+    "under_15mb": true,
+    "under_25mb": true,
+    "batches": [
+      {
+        "batch": "File 06 - Package 1 (Samsung/DB Claim)",
+        "raw_bytes": 1639192,
+        "raw_mb": 1.56,
+        "b64_mb": 2.08,
+        "files_count": 5,
+        "pass": true
+      },
+      {
+        "batch": "File 06 - Package 2 (Seojeong Univ)",
+        "raw_bytes": 1080384,
+        "raw_mb": 1.03,
+        "b64_mb": 1.37,
+        "files_count": 3,
+        "pass": true
+      },
+      {
+        "batch": "File 10 - KLAC Legal Aid Intake",
+        "raw_bytes": 2164021,
+        "raw_mb": 2.06,
+        "b64_mb": 2.75,
+        "files_count": 6,
+        "pass": true
+      },
+      {
+        "batch": "File 10 - DURO / Gong-Gam Public Interest",
+        "raw_bytes": 1490716,
+        "raw_mb": 1.42,
+        "b64_mb": 1.9,
+        "files_count": 4,
+        "pass": true
+      },
+      {
+        "batch": "File 10 - Bangladesh Embassy Consular Wing",
+        "raw_bytes": 1378673,
+        "raw_mb": 1.31,
+        "b64_mb": 1.75,
+        "files_count": 4,
+        "pass": true
+      },
+      {
+        "batch": "File 12 - DB Insurance Filing Email",
+        "raw_bytes": 1373755,
+        "raw_mb": 1.31,
+        "b64_mb": 1.75,
+        "files_count": 4,
+        "pass": true
+      },
+      {
+        "batch": "File 12 - FSS Dispute Petition Email",
+        "raw_bytes": 1024630,
+        "raw_mb": 0.98,
+        "b64_mb": 1.3,
+        "files_count": 3,
+        "pass": true
+      }
+    ]
+  },
+  "all_passed": true
+}
